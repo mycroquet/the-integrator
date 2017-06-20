@@ -1,1 +1,13 @@
-## The Integrator ##
+The Integrator
+---
+
+Welcome.
+
+
+
+Setup
+---
+
+```
+npm install
+```
